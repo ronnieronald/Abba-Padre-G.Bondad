@@ -5,7 +5,7 @@ const daysConfig = [
   {
     id: "lunes",
     jsonKey: "lunes",
-    jsonFile: "lunes.json",
+    jsonFile: "Lunes.json",
     available: true,
   },
   {
