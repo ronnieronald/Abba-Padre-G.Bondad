@@ -1,173 +1,19 @@
 {
-  "lunes": {
-    "status": "1",
-    "resumen": "En Filipos, Pablo y Silas liberaron a una joven con espíritu de adivinación. Sus amos los acusaron ante las autoridades; fueron azotados y encarcelados. A medianoche oraban y cantaban himnos a Dios, y los presos los oían. Sobrevino un gran terremoto que abrió las puertas y soltó las cadenas. El carcelero quiso matarse, pero Pablo lo detuvo. El carcelero preguntó qué debía hacer para ser salvo; le respondieron que creyera en el Señor Jesucristo. Él y su casa creyeron y fueron bautizados. Al día siguiente, los magistrados ordenaron soltarlos; Pablo declaró que eran ciudadanos romanos. Los magistrados tuvieron temor y les rogaron que salieran de la ciudad.",
+  "martes": {
+    "fecha": "2026-02-24",
+    "resumen": "Preguntas correspondientes al día Martes.",
     "preguntas": [
-    {
-      "pregunta": "¿Qué espíritu tenía la muchacha que salía al encuentro de Pablo y Silas?",
-      "alternativas": [
-        "A) Espíritu inmundo",
-        "B) Espíritu de adivinación",
-        "C) Espíritu de enfermedad",
-        "D) Espíritu de mentira"
-      ],
-      "correcta": "B",
-      "referencia": "Hechos 16:16"
-    },
-    {
-      "pregunta": "¿Qué daban a sus amos las adivinaciones de la muchacha?",
-      "alternativas": [
-        "A) Honra",
-        "B) Fama",
-        "C) Mucha ganancia",
-        "D) Protección"
-      ],
-      "correcta": "C",
-      "referencia": "Hechos 16:16"
-    },
-    {
-      "pregunta": "¿Cuántos días siguió la muchacha a Pablo y a nosotros dando voces?",
-      "alternativas": [
-        "A) Un día",
-        "B) Dos días",
-        "C) Muchos días",
-        "D) Siete días"
-      ],
-      "correcta": "C",
-      "referencia": "Hechos 16:18"
-    },
-    {
-      "pregunta": "¿En qué nombre mandó Pablo salir al espíritu?",
-      "alternativas": [
-        "A) En el nombre de Dios",
-        "B) En el nombre de Jesús",
-        "C) En el nombre del Señor Jesús",
-        "D) En el nombre del Altísimo"
-      ],
-      "correcta": "C",
-      "referencia": "Hechos 16:18"
-    },
-    {
-      "pregunta": "¿Ante quiénes llevaron los amos a Pablo y Silas?",
-      "alternativas": [
-        "A) Ante el concilio",
-        "B) Ante los magistrados",
-        "C) Ante el sumo sacerdote",
-        "D) Ante el procónsul"
-      ],
-      "correcta": "B",
-      "referencia": "Hechos 16:19-20"
-    },
-    {
-      "pregunta": "¿Qué ordenaron los magistrados hacer con Pablo y Silas?",
-      "alternativas": [
-        "A) Apedrearlos",
-        "B) Desterrarlos",
-        "C) Azotarlos con varas",
-        "D) Multarlos"
-      ],
-      "correcta": "C",
-      "referencia": "Hechos 16:22"
-    },
-    {
-      "pregunta": "¿Dónde mandó el carcelero meterlos con seguridad?",
-      "alternativas": [
-        "A) En el patio",
-        "B) En la torre",
-        "C) En el calabozo de arriba",
-        "D) En el calabozo de más adentro"
-      ],
-      "correcta": "D",
-      "referencia": "Hechos 16:24"
-    },
-    {
-      "pregunta": "¿A qué hora oraban y cantaban himnos Pablo y Silas?",
-      "alternativas": [
-        "A) A la hora tercera",
-        "B) A la hora sexta",
-        "C) A la medianoche",
-        "D) Al amanecer"
-      ],
-      "correcta": "C",
-      "referencia": "Hechos 16:25"
-    },
-    {
-      "pregunta": "¿Qué sucedió de repente en la cárcel?",
-      "alternativas": [
-        "A) Un incendio",
-        "B) Un motín",
-        "C) Un gran terremoto",
-        "D) Una inundación"
-      ],
-      "correcta": "C",
-      "referencia": "Hechos 16:26"
-    },
-    {
-      "pregunta": "¿Qué hizo el carcelero al pensar que los presos habían huido?",
-      "alternativas": [
-        "A) Corrió tras ellos",
-        "B) Se escondió",
-        "C) Sacó la espada para matarse",
-        "D) Cerró las puertas"
-      ],
-      "correcta": "C",
-      "referencia": "Hechos 16:27"
-    },
-    {
-      "pregunta": "¿Qué le dijeron Pablo y Silas al carcelero que debía hacer para ser salvo?",
-      "alternativas": [
-        "A) Guardar la ley",
-        "B) Dar limosnas",
-        "C) Creer en el Señor Jesucristo",
-        "D) Ayunar tres días"
-      ],
-      "correcta": "C",
-      "referencia": "Hechos 16:31"
-    },
-    {
-      "pregunta": "¿Quiénes fueron bautizados después de oír la palabra?",
-      "alternativas": [
-        "A) Solo el carcelero",
-        "B) El carcelero y algunos presos",
-        "C) El carcelero con todos los suyos",
-        "D) Solo su familia cercana"
-      ],
-      "correcta": "C",
-      "referencia": "Hechos 16:33"
-    },
-    {
-      "pregunta": "¿Qué enviaron los magistrados al día siguiente?",
-      "alternativas": [
-        "A) Soldados",
-        "B) Los alguaciles",
-        "C) Un centurión",
-        "D) Un escriba"
-      ],
-      "correcta": "B",
-      "referencia": "Hechos 16:35"
-    },
-    {
-      "pregunta": "¿Qué condición legal declaró Pablo que tenían?",
-      "alternativas": [
-        "A) Judíos libres",
-        "B) Ciudadanos griegos",
-        "C) Ciudadanos romanos",
-        "D) Extranjeros"
-      ],
-      "correcta": "C",
-      "referencia": "Hechos 16:37"
-    },
-    {
-      "pregunta": "Después de salir de la cárcel, ¿a casa de quién fueron y consolaron a los hermanos?",
-      "alternativas": [
-        "A) Priscila",
-        "B) Aquila",
-        "C) Lidia",
-        "D) María"
-      ],
-      "correcta": "C",
-      "referencia": "Hechos 16:40"
-    }
-  ]
-}
+      {
+        "pregunta": "¿Pregunta de ejemplo para el martes?",
+        "alternativas": [
+          "A) Opción A",
+          "B) Opción B",
+          "C) Opción C",
+          "D) Opción D"
+        ],
+        "correcta": "A",
+        "referencia": "Referencia Martes"
+      }
+    ]
+  }
 }
