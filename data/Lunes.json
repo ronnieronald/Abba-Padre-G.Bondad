@@ -1,7 +1,8 @@
 {
-  "status": "1",
-  "resumen": "En Filipos, Pablo y Silas liberaron a una joven con espíritu de adivinación. Sus amos los acusaron ante las autoridades; fueron azotados y encarcelados. A medianoche oraban y cantaban himnos a Dios, y los presos los oían. Sobrevino un gran terremoto que abrió las puertas y soltó las cadenas. El carcelero quiso matarse, pero Pablo lo detuvo. El carcelero preguntó qué debía hacer para ser salvo; le respondieron que creyera en el Señor Jesucristo. Él y su casa creyeron y fueron bautizados. Al día siguiente, los magistrados ordenaron soltarlos; Pablo declaró que eran ciudadanos romanos. Los magistrados tuvieron temor y les rogaron que salieran de la ciudad.",
-  "preguntas": [
+  "lunes": {
+    "status": "1",
+    "resumen": "En Filipos, Pablo y Silas liberaron a una joven con espíritu de adivinación. Sus amos los acusaron ante las autoridades; fueron azotados y encarcelados. A medianoche oraban y cantaban himnos a Dios, y los presos los oían. Sobrevino un gran terremoto que abrió las puertas y soltó las cadenas. El carcelero quiso matarse, pero Pablo lo detuvo. El carcelero preguntó qué debía hacer para ser salvo; le respondieron que creyera en el Señor Jesucristo. Él y su casa creyeron y fueron bautizados. Al día siguiente, los magistrados ordenaron soltarlos; Pablo declaró que eran ciudadanos romanos. Los magistrados tuvieron temor y les rogaron que salieran de la ciudad.",
+    "preguntas": [
     {
       "pregunta": "¿Qué espíritu tenía la muchacha que salía al encuentro de Pablo y Silas?",
       "alternativas": [
@@ -169,4 +170,4 @@
     }
   ]
 }
-
+}
