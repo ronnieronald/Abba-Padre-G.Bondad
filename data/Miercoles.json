@@ -1,0 +1,19 @@
+{
+  "miércoles": {
+    "fecha": "2026-02-25",
+    "resumen": "Resumen del miércoles. Describe el evento bíblico o enseñanza del día.",
+    "preguntas": [
+      {
+        "pregunta": "Pregunta 1 para miércoles",
+        "alternativas": [
+          "A) Opción 1",
+          "B) Opción 2",
+          "C) Opción 3",
+          "D) Opción 4"
+        ],
+        "correcta": "B",
+        "referencia": "Referencia bíblica"
+      }
+    ]
+  }
+}

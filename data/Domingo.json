@@ -1,0 +1,19 @@
+{
+  "domingo": {
+    "fecha": "2026-03-01",
+    "resumen": "Resumen del domingo. Describe el evento bíblico o enseñanza del día.",
+    "preguntas": [
+      {
+        "pregunta": "Pregunta 1 para domingo",
+        "alternativas": [
+          "A) Opción 1",
+          "B) Opción 2",
+          "C) Opción 3",
+          "D) Opción 4"
+        ],
+        "correcta": "B",
+        "referencia": "Referencia bíblica"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "jueves": {
+    "fecha": "2026-02-26",
+    "resumen": "Resumen del jueves. Describe el evento bíblico o enseñanza del día.",
+    "preguntas": [
+      {
+        "pregunta": "Pregunta 1 para jueves",
+        "alternativas": [
+          "A) Opción 1",
+          "B) Opción 2",
+          "C) Opción 3",
+          "D) Opción 4"
+        ],
+        "correcta": "C",
+        "referencia": "Referencia bíblica"
+      }
+    ]
+  }
+}

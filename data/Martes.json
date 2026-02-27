@@ -1,0 +1,19 @@
+{
+  "martes": {
+    "fecha": "2026-02-24",
+    "resumen": "Preguntas correspondientes al día Martes.",
+    "preguntas": [
+      {
+        "pregunta": "¿Pregunta de ejemplo para el martes?",
+        "alternativas": [
+          "A) Opción A",
+          "B) Opción B",
+          "C) Opción C",
+          "D) Opción D"
+        ],
+        "correcta": "A",
+        "referencia": "Referencia Martes"
+      }
+    ]
+  }
+}

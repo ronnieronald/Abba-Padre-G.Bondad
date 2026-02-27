@@ -1,0 +1,19 @@
+{
+  "sábado": {
+    "fecha": "2026-02-28",
+    "resumen": "Resumen del sábado. Describe el evento bíblico o enseñanza del día.",
+    "preguntas": [
+      {
+        "pregunta": "Pregunta 1 para sábado",
+        "alternativas": [
+          "A) Opción 1",
+          "B) Opción 2",
+          "C) Opción 3",
+          "D) Opción 4"
+        ],
+        "correcta": "A",
+        "referencia": "Referencia bíblica"
+      }
+    ]
+  }
+}
