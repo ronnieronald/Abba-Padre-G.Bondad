@@ -1,18 +1,118 @@
 {
-  "martes": {
-    "fecha": "2026-02-24",
-    "resumen": "Preguntas correspondientes al día Martes.",
+  "lunes": {
+    "status": "0", 
+    "fecha": "2026-02-23",
+    "resumen": "Pablo y Silas, mientras predicaban en Filipos, liberaron a una joven con espíritu de adivinación, lo que provocó su arresto, azotes y encarcelamiento. Mientras oraban y cantaban himnos en la cárcel, un terremoto abrió las puertas y soltó las cadenas. El carcelero y su familia creyeron en Dios, y finalmente Pablo y Silas fueron liberados oficialmente por los magistrados.",
     "preguntas": [
       {
-        "pregunta": "¿Pregunta de ejemplo para el martes?",
+        "pregunta": "¿Qué tipo de espíritu tenía la joven que seguía a Pablo y a sus compañeros?",
         "alternativas": [
-          "A) Opción A",
-          "B) Opción B",
-          "C) Opción C",
-          "D) Opción D"
+          "A) Espíritu inmundo",
+          "B) Espíritu de adivinación",
+          "C) Espíritu de enfermedad",
+          "D) Espíritu de temor"
         ],
-        "correcta": "A",
-        "referencia": "Referencia Martes"
+        "correcta": "B",
+        "referencia": "Hechos 16:16"
+      },
+      {
+        "pregunta": "¿Qué decía la joven acerca de Pablo y sus compañeros?",
+        "alternativas": [
+          "A) Que eran judíos extranjeros",
+          "B) Que eran falsos profetas",
+          "C) Que eran siervos del Dios Altísimo",
+          "D) Que eran maestros de la ley"
+        ],
+        "correcta": "C",
+        "referencia": "Hechos 16:17"
+      },
+      {
+        "pregunta": "¿En nombre de quién Pablo ordenó al espíritu que saliera?",
+        "alternativas": [
+          "A) Moisés",
+          "B) Jehová",
+          "C) Jesús",
+          "D) El Espíritu Santo"
+        ],
+        "correcta": "C",
+        "referencia": "Hechos 16:18"
+      },
+      {
+        "pregunta": "¿Qué perdieron los amos de la joven cuando el espíritu salió de ella?",
+        "alternativas": [
+          "A) Su autoridad",
+          "B) Su prestigio",
+          "C) La esperanza de su ganancia",
+          "D) Su ciudadanía"
+        ],
+        "correcta": "C",
+        "referencia": "Hechos 16:19"
+      },
+      {
+        "pregunta": "¿Ante quién llevaron a Pablo y Silas después de acusarlos?",
+        "alternativas": [
+          "A) El sumo sacerdote",
+          "B) Los magistrados",
+          "C) El gobernador romano",
+          "D) El sanedrín"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 16:20"
+      },
+      {
+        "pregunta": "¿Qué castigo recibieron Pablo y Silas antes de ser encarcelados?",
+        "alternativas": [
+          "A) Multa económica",
+          "B) Destierro",
+          "C) Azotes",
+          "D) Ayuno forzado"
+        ],
+        "correcta": "C",
+        "referencia": "Hechos 16:22-23"
+      },
+      {
+        "pregunta": "¿Qué hacían Pablo y Silas a medianoche en la cárcel?",
+        "alternativas": [
+          "A) Dormían",
+          "B) Oraban y cantaban himnos",
+          "C) Conversaban entre ellos",
+          "D) Guardaban silencio"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 16:25"
+      },
+      {
+        "pregunta": "¿Qué ocurrió repentinamente mientras ellos oraban?",
+        "alternativas": [
+          "A) Un incendio",
+          "B) Un motín",
+          "C) Un gran terremoto",
+          "D) Una tormenta"
+        ],
+        "correcta": "C",
+        "referencia": "Hechos 16:26"
+      },
+      {
+        "pregunta": "¿Qué iba a hacerse el carcelero al pensar que los presos habían huido?",
+        "alternativas": [
+          "A) Escapar",
+          "B) Dormir",
+          "C) Suicidarse",
+          "D) Llamar a los magistrados"
+        ],
+        "correcta": "C",
+        "referencia": "Hechos 16:27"
+      },
+      {
+        "pregunta": "¿Qué pregunta hizo el carcelero a Pablo y Silas?",
+        "alternativas": [
+          "A) ¿Por qué están aquí?",
+          "B) ¿Quién los envió?",
+          "C) ¿Qué debo hacer para ser salvo?",
+          "D) ¿Son ciudadanos romanos?"
+        ],
+        "correcta": "C",
+        "referencia": "Hechos 16:30"
       }
     ]
   }
