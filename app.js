@@ -5,7 +5,7 @@ const daysConfig = [
   {
     id: "lunes",
     jsonKey: "lunes",
-    jsonFile: "Lunes.json",
+    jsonFile: "lunes.json",
     available: true,
   },
   {
@@ -660,4 +660,3 @@ document.addEventListener("DOMContentLoaded", () => {
     loadQuestionsPage();
   }
 });
-
