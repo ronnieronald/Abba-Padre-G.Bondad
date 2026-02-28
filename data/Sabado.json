@@ -1,18 +1,183 @@
 {
   "sábado": {
     "fecha": "2026-02-28",
-    "resumen": "Resumen del sábado. Describe el evento bíblico o enseñanza del día.",
+    "resumen": "Pablo deja Corinto y pasa por Éfeso, mientras Apolos es guiado por Priscila y Aquila para perfeccionar su conocimiento y predicar con mayor efectividad.",
     "preguntas": [
       {
-        "pregunta": "Pregunta 1 para sábado",
+        "pregunta": "¿Dónde dejó Pablo instrucciones antes de continuar su viaje?",
         "alternativas": [
-          "A) Opción 1",
-          "B) Opción 2",
-          "C) Opción 3",
-          "D) Opción 4"
+          "A) Atenas",
+          "B) Éfeso",
+          "C) Corinto",
+          "D) Antioquía"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 18:18-22"
+      },
+      {
+        "pregunta": "¿Quiénes fueron los mentores de Apolos?",
+        "alternativas": [
+          "A) Pablo y Silas",
+          "B) Priscila y Aquila",
+          "C) Timoteo y Tito",
+          "D) Bernabé y Lucas"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 18:24-26"
+      },
+      {
+        "pregunta": "¿Qué conocía Apolos antes de ser mentorado?",
+        "alternativas": [
+          "A) Todo el Evangelio",
+          "B) Solo el bautismo de Juan",
+          "C) La ley de Moisés únicamente",
+          "D) Nada de las Escrituras"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 18:25"
+      },
+      {
+        "pregunta": "¿Qué hizo Apolos después de ser instruido por Priscila y Aquila?",
+        "alternativas": [
+          "A) Dejó de predicar",
+          "B) Se convirtió en líder militar",
+          "C) Predicaba con valentía y claridad",
+          "D) Viajó a Roma"
+        ],
+        "correcta": "C",
+        "referencia": "Hechos 18:27-28"
+      },
+      {
+        "pregunta": "¿Qué característica de la mentoría muestra Priscila y Aquila?",
+        "alternativas": [
+          "A) Enseñanza pública",
+          "B) Corrección personalizada y discreta",
+          "C) Dominio y control",
+          "D) Ignorar errores"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 18:26"
+      },
+      {
+        "pregunta": "¿Qué buscaba Apolos al ir a Acaya?",
+        "alternativas": [
+          "A) Comer y descansar",
+          "B) Exhortar a los hermanos y enseñar con efectividad",
+          "C) Evitar predicar",
+          "D) Reclutar soldados"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 18:27"
+      },
+      {
+        "pregunta": "¿Qué nos enseña sobre Dios este pasaje?",
+        "alternativas": [
+          "A) Dios no interviene en la formación de líderes",
+          "B) Dios usa mentores para perfeccionar a sus siervos",
+          "C) Dios obliga a todos a predicar",
+          "D) Dios solo se comunica mediante ángeles"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 18:24-28"
+      },
+      {
+        "pregunta": "¿Qué importancia tiene la humildad en la vida cristiana según este pasaje?",
+        "alternativas": [
+          "A) No es necesaria",
+          "B) Permite aceptar enseñanza y crecer",
+          "C) Solo sirve para los líderes",
+          "D) Es opcional"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 18:25-26"
+      },
+      {
+        "pregunta": "¿Cuál fue el impacto de la mentoría de Apolos?",
+        "alternativas": [
+          "A) Su ministerio no cambió",
+          "B) Se volvió un predicador más efectivo y difundió el Evangelio",
+          "C) Dejó de predicar",
+          "D) Comenzó un negocio"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 18:27-28"
+      },
+      {
+        "pregunta": "¿Qué nos enseña este pasaje sobre el pecado o errores?",
+        "alternativas": [
+          "A) El pecado impide totalmente servir a Dios",
+          "B) Los errores se corrigen con enseñanza y guía",
+          "C) No hay necesidad de corrección",
+          "D) Solo Pablo puede corregir"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 18:25-26"
+      },
+      {
+        "pregunta": "¿Qué hace Pablo al salir de Corinto?",
+        "alternativas": [
+          "A) Se queda en Éfeso mucho tiempo",
+          "B) Viaja hacia Jerusalén y luego a Antioquía",
+          "C) Se va a Roma directamente",
+          "D) Regresa a Corinto"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 18:18-22"
+      },
+      {
+        "pregunta": "¿Cómo demuestra Apolos su aprendizaje?",
+        "alternativas": [
+          "A) Enseñando con valentía y claridad",
+          "B) Evitando a los cristianos",
+          "C) Solo hablando con Priscila y Aquila",
+          "D) Dejando de predicar"
         ],
         "correcta": "A",
-        "referencia": "Referencia bíblica"
+        "referencia": "Hechos 18:27-28"
+      },
+      {
+        "pregunta": "¿Qué actitud deben tener los discípulos al recibir enseñanza?",
+        "alternativas": [
+          "A) Arrogancia",
+          "B) Humildad y disposición a aprender",
+          "C) Ignorar correcciones",
+          "D) Competir con el maestro"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 18:25-26"
+      },
+      {
+        "pregunta": "¿Qué enseñanza práctica nos deja este pasaje para hoy?",
+        "alternativas": [
+          "A) Buscar mentores y aprender de ellos",
+          "B) Hacer todo solo",
+          "C) Evitar enseñar a otros",
+          "D) Ignorar consejos sabios"
+        ],
+        "correcta": "A",
+        "referencia": "Hechos 18:24-28"
+      },
+      {
+        "pregunta": "¿Qué significa multiplicar el impacto en la vida cristiana?",
+        "alternativas": [
+          "A) Solo predicar sin enseñar a otros",
+          "B) Formar y guiar a otros para que ellos también enseñen",
+          "C) Acumular conocimiento para uno mismo",
+          "D) Ignorar la comunidad"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 18:27-28"
+      },
+      {
+        "pregunta": "¿Qué muestra este pasaje sobre la comunidad cristiana?",
+        "alternativas": [
+          "A) No es necesaria para crecer",
+          "B) Es fundamental para aprender, corregir y multiplicar la fe",
+          "C) Solo sirve para socializar",
+          "D) Se enfoca solo en la autoridad de líderes"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 18:18-28"
       }
     ]
   }
