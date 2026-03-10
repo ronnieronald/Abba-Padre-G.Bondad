@@ -1,18 +1,227 @@
 {
   "martes": {
-    "fecha": "2026-02-24",
-    "resumen": "Preguntas correspondientes al día Martes.",
+    "fecha": "",
+    "resumen": "Preguntas sobre Hechos 21:37–40 y 22:1–5.",
     "preguntas": [
       {
-        "pregunta": "¿Pregunta de ejemplo para el martes?",
+        "pregunta": "¿A quién le pidió Pablo permiso para hablar?",
         "alternativas": [
-          "A) Opción A",
-          "B) Opción B",
-          "C) Opción C",
-          "D) Opción D"
+          "A) Al sumo sacerdote",
+          "B) Al tribuno",
+          "C) A los ancianos",
+          "D) A los fariseos"
         ],
-        "correcta": "A",
-        "referencia": "Referencia Martes"
+        "correcta": "B",
+        "referencia": "Hechos 21:37"
+      },
+      {
+        "pregunta": "¿Qué idioma sabía hablar Pablo según el tribuno?",
+        "alternativas": [
+          "A) Latín",
+          "B) Hebreo",
+          "C) Griego",
+          "D) Egipcio"
+        ],
+        "correcta": "C",
+        "referencia": "Hechos 21:37"
+      },
+      {
+        "pregunta": "¿De qué acusó el tribuno a Pablo al principio?",
+        "alternativas": [
+          "A) De ser fariseo",
+          "B) De ser el egipcio que causó una sedición",
+          "C) De ser romano",
+          "D) De ser sacerdote"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 21:38"
+      },
+      {
+        "pregunta": "¿Cuántos sicarios mencionó el tribuno?",
+        "alternativas": [
+          "A) Mil",
+          "B) Dos mil",
+          "C) Cuatro mil",
+          "D) Cinco mil"
+        ],
+        "correcta": "C",
+        "referencia": "Hechos 21:38"
+      },
+      {
+        "pregunta": "¿De qué ciudad dijo Pablo que era?",
+        "alternativas": [
+          "A) Jerusalén",
+          "B) Damasco",
+          "C) Tarso",
+          "D) Roma"
+        ],
+        "correcta": "C",
+        "referencia": "Hechos 21:39"
+      },
+      {
+        "pregunta": "¿En qué región estaba la ciudad de Tarso?",
+        "alternativas": [
+          "A) Judea",
+          "B) Galilea",
+          "C) Cilicia",
+          "D) Samaria"
+        ],
+        "correcta": "C",
+        "referencia": "Hechos 21:39"
+      },
+      {
+        "pregunta": "¿Qué pidió Pablo al tribuno?",
+        "alternativas": [
+          "A) Que lo liberara",
+          "B) Que lo dejara ir a su casa",
+          "C) Que le permitiera hablar al pueblo",
+          "D) Que lo llevara al templo"
+        ],
+        "correcta": "C",
+        "referencia": "Hechos 21:39"
+      },
+      {
+        "pregunta": "¿Dónde estaba Pablo cuando comenzó a hablar al pueblo?",
+        "alternativas": [
+          "A) En el templo",
+          "B) En las gradas",
+          "C) En la cárcel",
+          "D) En la calle"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 21:40"
+      },
+      {
+        "pregunta": "¿Qué hizo Pablo con la mano antes de hablar?",
+        "alternativas": [
+          "A) Saludó",
+          "B) Hizo señal al pueblo",
+          "C) Señaló al tribuno",
+          "D) Levantó un pergamino"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 21:40"
+      },
+      {
+        "pregunta": "¿En qué lengua habló Pablo al pueblo?",
+        "alternativas": [
+          "A) Griego",
+          "B) Latín",
+          "C) Hebreo",
+          "D) Egipcio"
+        ],
+        "correcta": "C",
+        "referencia": "Hechos 21:40"
+      },
+      {
+        "pregunta": "¿Cómo comenzó Pablo su defensa?",
+        "alternativas": [
+          "A) Amigos y vecinos",
+          "B) Hermanos y padres",
+          "C) Señores romanos",
+          "D) Pueblo de Israel"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 22:1"
+      },
+      {
+        "pregunta": "¿Qué hizo la gente cuando escuchó que Pablo hablaba en hebreo?",
+        "alternativas": [
+          "A) Se enojaron",
+          "B) Se fueron",
+          "C) Guardaron más silencio",
+          "D) Empezaron a gritar"
+        ],
+        "correcta": "C",
+        "referencia": "Hechos 22:2"
+      },
+      {
+        "pregunta": "¿Dónde nació Pablo?",
+        "alternativas": [
+          "A) Jerusalén",
+          "B) Tarso de Cilicia",
+          "C) Damasco",
+          "D) Roma"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 22:3"
+      },
+      {
+        "pregunta": "¿Dónde fue criado Pablo?",
+        "alternativas": [
+          "A) Damasco",
+          "B) Roma",
+          "C) Jerusalén",
+          "D) Antioquía"
+        ],
+        "correcta": "C",
+        "referencia": "Hechos 22:3"
+      },
+      {
+        "pregunta": "¿Quién fue el maestro de Pablo?",
+        "alternativas": [
+          "A) Pedro",
+          "B) Gamaliel",
+          "C) Nicodemo",
+          "D) Ananías"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 22:3"
+      },
+      {
+        "pregunta": "¿Cómo describe Pablo su actitud hacia Dios antes?",
+        "alternativas": [
+          "A) Indiferente",
+          "B) Celoso de Dios",
+          "C) Desobediente",
+          "D) Desinteresado"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 22:3"
+      },
+      {
+        "pregunta": "¿Qué perseguía Pablo antes de conocer a Cristo?",
+        "alternativas": [
+          "A) A los romanos",
+          "B) A los fariseos",
+          "C) Este Camino",
+          "D) A los publicanos"
+        ],
+        "correcta": "C",
+        "referencia": "Hechos 22:4"
+      },
+      {
+        "pregunta": "¿Qué hacía Pablo con los creyentes?",
+        "alternativas": [
+          "A) Los ayudaba",
+          "B) Los enviaba a predicar",
+          "C) Los metía en la cárcel",
+          "D) Los protegía"
+        ],
+        "correcta": "C",
+        "referencia": "Hechos 22:4"
+      },
+      {
+        "pregunta": "¿Quién podía testificar sobre las acciones de Pablo?",
+        "alternativas": [
+          "A) El gobernador",
+          "B) El sumo sacerdote y los ancianos",
+          "C) Los romanos",
+          "D) Los discípulos"
+        ],
+        "correcta": "B",
+        "referencia": "Hechos 22:5"
+      },
+      {
+        "pregunta": "¿A qué ciudad iba Pablo para traer presos a los creyentes?",
+        "alternativas": [
+          "A) Roma",
+          "B) Antioquía",
+          "C) Damasco",
+          "D) Galilea"
+        ],
+        "correcta": "C",
+        "referencia": "Hechos 22:5"
       }
     ]
   }
